@@ -4,8 +4,9 @@ Curso de Tecnologia em Análise e Desenvolvimento de Sistemas - EAD
 
 Projeto: Desenvolvimento de Aplicação Web Front-End 
 
-1 SEMESTER 2021
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+1 SEMESTRE 2021
+
+O objetivo deste projeto é criar um portal que sirva como um grande banco de dados e registre todos as iniciativas propostas e votadas por cada degrau da esfera pública, onde seja possível acessar as informações desses projetos e ações assim como quem propôs, registros de votos em favor e contra, dentre outros. 
 
 ## Integrantes
 
