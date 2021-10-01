@@ -12,7 +12,7 @@ O objetivo deste projeto é criar um portal que sirva como um grande banco de da
 
 * Eduardo Henrique de Aguilar
 * Alex Junio
-* Hudneivison Alves
+* Waldirene Noronha Rodrigues Braga
 * Mariana Rodrigues de Souza
 * Vinícius Raposo Coelho Soares
 
