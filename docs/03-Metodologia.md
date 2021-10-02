@@ -18,8 +18,8 @@ Google Drive
 https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 
 
 Projeto de Interface e  Wireframes
-MarvelApp
-https://marvelapp.com/4hd6091 
+Figma
+https://www.figma.com/file/6Pi2ggi4hCjMOoemW9gwAk/Portal-Atualize?node-id=1%3A2
 
 Gerenciamento do Projeto
 Trello
